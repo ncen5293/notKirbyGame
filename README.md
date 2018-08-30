@@ -57,3 +57,5 @@ Then again X is close to left alt and space.
 
 Sometimes the player doesn't want to take an item even though they touch it.
 
+Should smooth out the edges of platforms because the player can get stuck on them if they keep trying to move towards them.
+
