@@ -1,5 +1,5 @@
 # notKirbyGame
-Made in Unity2D using assets from Kirby games.
+Made in Unity2D using assets from Kirby games and 2 things from Megaman.
 
 A short 5 - 10 minute game I made.
 
