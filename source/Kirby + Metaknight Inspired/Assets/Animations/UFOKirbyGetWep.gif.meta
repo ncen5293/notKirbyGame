@@ -1,0 +1,1692 @@
+fileFormatVersion: 2
+guid: d2c6f2b91632aa4479f8b30c3b5d5229
+timeCreated: 1533098298
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UFOKirbyGetWep_0
+    21300002: UFOKirbyGetWep_1
+    21300004: UFOKirbyGetWep_2
+    21300006: UFOKirbyGetWep_3
+    21300008: UFOKirbyGetWep_4
+    21300010: UFOKirbyGetWep_5
+    21300012: UFOKirbyGetWep_6
+    21300014: UFOKirbyGetWep_7
+    21300016: UFOKirbyGetWep_8
+    21300018: UFOKirbyGetWep_9
+    21300020: UFOKirbyGetWep_10
+    21300022: UFOKirbyGetWep_11
+    21300024: UFOKirbyGetWep_12
+    21300026: UFOKirbyGetWep_13
+    21300028: UFOKirbyGetWep_14
+    21300030: UFOKirbyGetWep_15
+    21300032: UFOKirbyGetWep_16
+    21300034: UFOKirbyGetWep_17
+    21300036: UFOKirbyGetWep_18
+    21300038: UFOKirbyGetWep_19
+    21300040: UFOKirbyGetWep_20
+    21300042: UFOKirbyGetWep_21
+    21300044: UFOKirbyGetWep_22
+    21300046: UFOKirbyGetWep_23
+    21300048: UFOKirbyGetWep_24
+    21300050: UFOKirbyGetWep_25
+    21300052: UFOKirbyGetWep_26
+    21300054: UFOKirbyGetWep_27
+    21300056: UFOKirbyGetWep_28
+    21300058: UFOKirbyGetWep_29
+    21300060: UFOKirbyGetWep_30
+    21300062: UFOKirbyGetWep_31
+    21300064: UFOKirbyGetWep_32
+    21300066: UFOKirbyGetWep_33
+    21300068: UFOKirbyGetWep_34
+    21300070: UFOKirbyGetWep_35
+    21300072: UFOKirbyGetWep_36
+    21300074: UFOKirbyGetWep_37
+    21300076: UFOKirbyGetWep_38
+    21300078: UFOKirbyGetWep_39
+    21300080: UFOKirbyGetWep_40
+    21300082: UFOKirbyGetWep_41
+    21300084: UFOKirbyGetWep_42
+    21300086: UFOKirbyGetWep_43
+    21300088: UFOKirbyGetWep_44
+    21300090: UFOKirbyGetWep_45
+    21300092: UFOKirbyGetWep_46
+    21300094: UFOKirbyGetWep_47
+    21300096: UFOKirbyGetWep_48
+    21300098: UFOKirbyGetWep_49
+    21300100: UFOKirbyGetWep_50
+    21300102: UFOKirbyGetWep_51
+    21300104: UFOKirbyGetWep_52
+    21300106: UFOKirbyGetWep_53
+    21300108: UFOKirbyGetWep_54
+    21300110: UFOKirbyGetWep_55
+    21300112: UFOKirbyGetWep_56
+    21300114: UFOKirbyGetWep_57
+    21300116: UFOKirbyGetWep_58
+    21300118: UFOKirbyGetWep_59
+    21300120: UFOKirbyGetWep_60
+    21300122: UFOKirbyGetWep_61
+    21300124: UFOKirbyGetWep_62
+    21300126: UFOKirbyGetWep_63
+    21300128: UFOKirbyGetWep_64
+    21300130: UFOKirbyGetWep_65
+    21300132: UFOKirbyGetWep_66
+    21300134: UFOKirbyGetWep_67
+    21300136: UFOKirbyGetWep_68
+    21300138: UFOKirbyGetWep_69
+    21300140: UFOKirbyGetWep_70
+    21300142: UFOKirbyGetWep_71
+    21300144: UFOKirbyGetWep_72
+    21300146: UFOKirbyGetWep_73
+    21300148: UFOKirbyGetWep_74
+    21300150: UFOKirbyGetWep_75
+    21300152: UFOKirbyGetWep_76
+    21300154: UFOKirbyGetWep_77
+    21300156: UFOKirbyGetWep_78
+    21300158: UFOKirbyGetWep_79
+    21300160: UFOKirbyGetWep_80
+    21300162: UFOKirbyGetWep_81
+    21300164: UFOKirbyGetWep_82
+    21300166: UFOKirbyGetWep_83
+    21300168: UFOKirbyGetWep_84
+    21300170: UFOKirbyGetWep_85
+    21300172: UFOKirbyGetWep_86
+    21300174: UFOKirbyGetWep_87
+    21300176: UFOKirbyGetWep_88
+    21300178: UFOKirbyGetWep_89
+    21300180: UFOKirbyGetWep_90
+    21300182: UFOKirbyGetWep_91
+    21300184: UFOKirbyGetWep_92
+    21300186: UFOKirbyGetWep_93
+    21300188: UFOKirbyGetWep_94
+    21300190: UFOKirbyGetWep_95
+    21300192: UFOKirbyGetWep_96
+    21300194: UFOKirbyGetWep_97
+    21300196: UFOKirbyGetWep_98
+    21300198: UFOKirbyGetWep_99
+    21300200: UFOKirbyGetWep_100
+    21300202: UFOKirbyGetWep_101
+    21300204: UFOKirbyGetWep_102
+    21300206: UFOKirbyGetWep_103
+    21300208: UFOKirbyGetWep_104
+    21300210: UFOKirbyGetWep_105
+    21300212: UFOKirbyGetWep_106
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 366
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 366
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 366
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 366
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 366
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 366
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 366
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 366
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 332
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 332
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 332
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 332
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 306
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 306
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 306
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 306
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 283
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 283
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 283
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 237
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 237
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 237
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 237
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 211
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 235
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 235
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 211
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_35
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_36
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 211
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_37
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 235
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_38
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 235
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 211
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 211
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 211
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 211
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 211
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 211
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 211
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_48
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 211
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 192
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 43
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_52
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 192
+        width: 49
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 163
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_55
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 163
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 163
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_57
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 163
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_59
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_60
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 117
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_61
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 138
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 117
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_63
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 117
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 117
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 128
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 63
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 88
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_69
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 60
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 65
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_73
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 63
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_74
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_76
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 61
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_77
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 57
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_78
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 55
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_79
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 51
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_80
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 49
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_81
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 55
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_82
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 50
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_83
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 51
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_84
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 65
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_85
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 51
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_86
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 45
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_88
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_89
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 39
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_91
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 39
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_92
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 37
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_93
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_94
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_95
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_96
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 7
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_97
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 7
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_98
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 8
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_99
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 8
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.38, y: 0.5000004}
+      border: {x: 0, y: 0, z: 7, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_100
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 8
+        width: 44
+        height: 19
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_101
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 8
+        width: 45
+        height: 19
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 21, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_102
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4
+        width: 49
+        height: 23
+      alignment: 9
+      pivot: {x: 0.25, y: 0.6}
+      border: {x: 0, y: 4, z: 25, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_103
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 8
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.39, y: 0.5}
+      border: {x: 0, y: 0, z: 7, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_104
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 9
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_105
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 8
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyGetWep_106
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 8
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

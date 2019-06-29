@@ -1,0 +1,5489 @@
+fileFormatVersion: 2
+guid: 5840b9011515f3f43848717b6cee5aca
+timeCreated: 1535480790
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kirby Super Star Ultra - Sword Knight_0
+    21300002: Kirby Super Star Ultra - Sword Knight_1
+    21300004: Kirby Super Star Ultra - Sword Knight_2
+    21300006: Kirby Super Star Ultra - Sword Knight_3
+    21300008: Kirby Super Star Ultra - Sword Knight_4
+    21300010: Kirby Super Star Ultra - Sword Knight_5
+    21300012: Kirby Super Star Ultra - Sword Knight_6
+    21300014: Kirby Super Star Ultra - Sword Knight_7
+    21300016: Kirby Super Star Ultra - Sword Knight_8
+    21300018: die0
+    21300020: die1
+    21300022: die2
+    21300024: Kirby Super Star Ultra - Sword Knight_12
+    21300026: Kirby Super Star Ultra - Sword Knight_13
+    21300028: Kirby Super Star Ultra - Sword Knight_14
+    21300030: Kirby Super Star Ultra - Sword Knight_15
+    21300032: Kirby Super Star Ultra - Sword Knight_16
+    21300034: Kirby Super Star Ultra - Sword Knight_17
+    21300036: Kirby Super Star Ultra - Sword Knight_18
+    21300038: Kirby Super Star Ultra - Sword Knight_19
+    21300040: Kirby Super Star Ultra - Sword Knight_20
+    21300042: Kirby Super Star Ultra - Sword Knight_21
+    21300044: Kirby Super Star Ultra - Sword Knight_22
+    21300046: Kirby Super Star Ultra - Sword Knight_23
+    21300048: Kirby Super Star Ultra - Sword Knight_24
+    21300050: Kirby Super Star Ultra - Sword Knight_25
+    21300052: die3
+    21300054: die4
+    21300056: Kirby Super Star Ultra - Sword Knight_28
+    21300058: Kirby Super Star Ultra - Sword Knight_29
+    21300060: Kirby Super Star Ultra - Sword Knight_30
+    21300062: Kirby Super Star Ultra - Sword Knight_31
+    21300064: Kirby Super Star Ultra - Sword Knight_32
+    21300066: Kirby Super Star Ultra - Sword Knight_33
+    21300068: Kirby Super Star Ultra - Sword Knight_34
+    21300070: Kirby Super Star Ultra - Sword Knight_35
+    21300072: Kirby Super Star Ultra - Sword Knight_36
+    21300074: jumpaway0
+    21300076: jumpaway1
+    21300078: jumpaway2
+    21300080: Kirby Super Star Ultra - Sword Knight_40
+    21300082: Kirby Super Star Ultra - Sword Knight_41
+    21300084: Kirby Super Star Ultra - Sword Knight_42
+    21300086: Kirby Super Star Ultra - Sword Knight_43
+    21300088: Kirby Super Star Ultra - Sword Knight_44
+    21300090: Kirby Super Star Ultra - Sword Knight_45
+    21300092: Kirby Super Star Ultra - Sword Knight_46
+    21300094: Kirby Super Star Ultra - Sword Knight_47
+    21300096: Kirby Super Star Ultra - Sword Knight_48
+    21300098: Kirby Super Star Ultra - Sword Knight_49
+    21300100: Kirby Super Star Ultra - Sword Knight_50
+    21300102: Kirby Super Star Ultra - Sword Knight_51
+    21300104: Kirby Super Star Ultra - Sword Knight_52
+    21300106: Kirby Super Star Ultra - Sword Knight_53
+    21300108: Kirby Super Star Ultra - Sword Knight_54
+    21300110: Kirby Super Star Ultra - Sword Knight_55
+    21300112: Kirby Super Star Ultra - Sword Knight_56
+    21300114: Kirby Super Star Ultra - Sword Knight_57
+    21300116: Kirby Super Star Ultra - Sword Knight_58
+    21300118: Kirby Super Star Ultra - Sword Knight_59
+    21300120: Kirby Super Star Ultra - Sword Knight_60
+    21300122: Kirby Super Star Ultra - Sword Knight_61
+    21300124: Kirby Super Star Ultra - Sword Knight_62
+    21300126: Kirby Super Star Ultra - Sword Knight_63
+    21300128: Kirby Super Star Ultra - Sword Knight_64
+    21300130: walk0
+    21300132: walk1
+    21300134: walk2
+    21300136: walk3
+    21300138: walk4
+    21300140: walk5
+    21300142: walk6
+    21300144: walk7
+    21300146: walk8
+    21300148: Kirby Super Star Ultra - Sword Knight_74
+    21300150: Kirby Super Star Ultra - Sword Knight_75
+    21300152: Kirby Super Star Ultra - Sword Knight_76
+    21300154: Kirby Super Star Ultra - Sword Knight_77
+    21300156: Kirby Super Star Ultra - Sword Knight_78
+    21300158: Kirby Super Star Ultra - Sword Knight_79
+    21300160: Kirby Super Star Ultra - Sword Knight_80
+    21300162: kick0
+    21300164: Kirby Super Star Ultra - Sword Knight_82
+    21300166: Kirby Super Star Ultra - Sword Knight_83
+    21300168: Kirby Super Star Ultra - Sword Knight_84
+    21300170: Kirby Super Star Ultra - Sword Knight_85
+    21300172: Kirby Super Star Ultra - Sword Knight_86
+    21300174: Kirby Super Star Ultra - Sword Knight_87
+    21300176: Kirby Super Star Ultra - Sword Knight_88
+    21300178: Kirby Super Star Ultra - Sword Knight_89
+    21300180: Kirby Super Star Ultra - Sword Knight_90
+    21300182: kick1
+    21300184: Kirby Super Star Ultra - Sword Knight_92
+    21300186: Kirby Super Star Ultra - Sword Knight_93
+    21300188: Kirby Super Star Ultra - Sword Knight_94
+    21300190: Kirby Super Star Ultra - Sword Knight_95
+    21300192: Kirby Super Star Ultra - Sword Knight_96
+    21300194: Kirby Super Star Ultra - Sword Knight_97
+    21300196: Kirby Super Star Ultra - Sword Knight_98
+    21300198: Kirby Super Star Ultra - Sword Knight_99
+    21300200: Kirby Super Star Ultra - Sword Knight_100
+    21300202: attack0
+    21300204: Kirby Super Star Ultra - Sword Knight_102
+    21300206: Kirby Super Star Ultra - Sword Knight_103
+    21300208: Kirby Super Star Ultra - Sword Knight_104
+    21300210: Kirby Super Star Ultra - Sword Knight_105
+    21300212: Kirby Super Star Ultra - Sword Knight_106
+    21300214: attack1
+    21300216: Kirby Super Star Ultra - Sword Knight_108
+    21300218: attack2
+    21300220: Kirby Super Star Ultra - Sword Knight_110
+    21300222: attack3
+    21300224: attack4
+    21300226: attack5
+    21300228: attack6
+    21300230: Kirby Super Star Ultra - Sword Knight_115
+    21300232: Kirby Super Star Ultra - Sword Knight_116
+    21300234: Kirby Super Star Ultra - Sword Knight_117
+    21300236: Kirby Super Star Ultra - Sword Knight_118
+    21300238: Kirby Super Star Ultra - Sword Knight_119
+    21300240: Kirby Super Star Ultra - Sword Knight_120
+    21300242: Kirby Super Star Ultra - Sword Knight_121
+    21300244: Kirby Super Star Ultra - Sword Knight_122
+    21300246: Kirby Super Star Ultra - Sword Knight_123
+    21300248: Kirby Super Star Ultra - Sword Knight_124
+    21300250: Kirby Super Star Ultra - Sword Knight_125
+    21300252: Kirby Super Star Ultra - Sword Knight_126
+    21300254: Kirby Super Star Ultra - Sword Knight_127
+    21300256: attack10
+    21300258: Kirby Super Star Ultra - Sword Knight_129
+    21300260: Kirby Super Star Ultra - Sword Knight_130
+    21300262: Kirby Super Star Ultra - Sword Knight_131
+    21300264: Kirby Super Star Ultra - Sword Knight_132
+    21300266: Kirby Super Star Ultra - Sword Knight_133
+    21300268: Kirby Super Star Ultra - Sword Knight_134
+    21300270: Kirby Super Star Ultra - Sword Knight_135
+    21300272: Kirby Super Star Ultra - Sword Knight_136
+    21300274: Kirby Super Star Ultra - Sword Knight_137
+    21300276: Kirby Super Star Ultra - Sword Knight_138
+    21300278: Kirby Super Star Ultra - Sword Knight_139
+    21300280: attack7
+    21300282: Kirby Super Star Ultra - Sword Knight_141
+    21300284: attack8
+    21300286: attack9
+    21300288: Kirby Super Star Ultra - Sword Knight_144
+    21300290: Kirby Super Star Ultra - Sword Knight_145
+    21300292: Kirby Super Star Ultra - Sword Knight_146
+    21300294: Kirby Super Star Ultra - Sword Knight_147
+    21300296: Kirby Super Star Ultra - Sword Knight_148
+    21300298: Kirby Super Star Ultra - Sword Knight_149
+    21300300: Kirby Super Star Ultra - Sword Knight_150
+    21300302: Kirby Super Star Ultra - Sword Knight_151
+    21300304: Kirby Super Star Ultra - Sword Knight_152
+    21300306: Kirby Super Star Ultra - Sword Knight_153
+    21300308: Kirby Super Star Ultra - Sword Knight_154
+    21300310: Kirby Super Star Ultra - Sword Knight_155
+    21300312: Kirby Super Star Ultra - Sword Knight_156
+    21300314: Kirby Super Star Ultra - Sword Knight_157
+    21300316: Kirby Super Star Ultra - Sword Knight_158
+    21300318: Kirby Super Star Ultra - Sword Knight_159
+    21300320: Kirby Super Star Ultra - Sword Knight_160
+    21300322: Kirby Super Star Ultra - Sword Knight_161
+    21300324: Kirby Super Star Ultra - Sword Knight_162
+    21300326: Kirby Super Star Ultra - Sword Knight_163
+    21300328: Kirby Super Star Ultra - Sword Knight_164
+    21300330: Kirby Super Star Ultra - Sword Knight_165
+    21300332: Kirby Super Star Ultra - Sword Knight_166
+    21300334: Kirby Super Star Ultra - Sword Knight_167
+    21300336: Kirby Super Star Ultra - Sword Knight_168
+    21300338: dash0
+    21300340: dash1
+    21300342: dash2
+    21300344: dash3
+    21300346: dash4
+    21300348: Kirby Super Star Ultra - Sword Knight_174
+    21300350: Kirby Super Star Ultra - Sword Knight_175
+    21300352: Kirby Super Star Ultra - Sword Knight_176
+    21300354: Kirby Super Star Ultra - Sword Knight_177
+    21300356: Kirby Super Star Ultra - Sword Knight_178
+    21300358: Kirby Super Star Ultra - Sword Knight_179
+    21300360: Kirby Super Star Ultra - Sword Knight_180
+    21300362: Kirby Super Star Ultra - Sword Knight_181
+    21300364: Kirby Super Star Ultra - Sword Knight_182
+    21300366: Kirby Super Star Ultra - Sword Knight_183
+    21300368: Kirby Super Star Ultra - Sword Knight_184
+    21300370: Kirby Super Star Ultra - Sword Knight_185
+    21300372: Kirby Super Star Ultra - Sword Knight_186
+    21300374: Kirby Super Star Ultra - Sword Knight_187
+    21300376: Kirby Super Star Ultra - Sword Knight_188
+    21300378: Kirby Super Star Ultra - Sword Knight_189
+    21300380: Kirby Super Star Ultra - Sword Knight_190
+    21300382: Kirby Super Star Ultra - Sword Knight_191
+    21300384: Kirby Super Star Ultra - Sword Knight_192
+    21300386: Kirby Super Star Ultra - Sword Knight_193
+    21300388: Kirby Super Star Ultra - Sword Knight_194
+    21300390: Kirby Super Star Ultra - Sword Knight_195
+    21300392: Kirby Super Star Ultra - Sword Knight_196
+    21300394: Kirby Super Star Ultra - Sword Knight_197
+    21300396: Kirby Super Star Ultra - Sword Knight_198
+    21300398: Kirby Super Star Ultra - Sword Knight_199
+    21300400: Kirby Super Star Ultra - Sword Knight_200
+    21300402: Kirby Super Star Ultra - Sword Knight_201
+    21300404: Kirby Super Star Ultra - Sword Knight_202
+    21300406: Kirby Super Star Ultra - Sword Knight_203
+    21300408: Kirby Super Star Ultra - Sword Knight_204
+    21300410: Kirby Super Star Ultra - Sword Knight_205
+    21300412: Kirby Super Star Ultra - Sword Knight_206
+    21300414: Kirby Super Star Ultra - Sword Knight_207
+    21300416: Kirby Super Star Ultra - Sword Knight_208
+    21300418: Kirby Super Star Ultra - Sword Knight_209
+    21300420: Kirby Super Star Ultra - Sword Knight_210
+    21300422: Kirby Super Star Ultra - Sword Knight_211
+    21300424: Kirby Super Star Ultra - Sword Knight_212
+    21300426: Kirby Super Star Ultra - Sword Knight_213
+    21300428: Kirby Super Star Ultra - Sword Knight_214
+    21300430: Kirby Super Star Ultra - Sword Knight_215
+    21300432: Kirby Super Star Ultra - Sword Knight_216
+    21300434: Kirby Super Star Ultra - Sword Knight_217
+    21300436: Kirby Super Star Ultra - Sword Knight_218
+    21300438: Kirby Super Star Ultra - Sword Knight_219
+    21300440: Kirby Super Star Ultra - Sword Knight_220
+    21300442: Kirby Super Star Ultra - Sword Knight_221
+    21300444: Kirby Super Star Ultra - Sword Knight_222
+    21300446: Kirby Super Star Ultra - Sword Knight_223
+    21300448: Kirby Super Star Ultra - Sword Knight_224
+    21300450: Kirby Super Star Ultra - Sword Knight_225
+    21300452: Kirby Super Star Ultra - Sword Knight_226
+    21300454: Kirby Super Star Ultra - Sword Knight_227
+    21300456: Kirby Super Star Ultra - Sword Knight_228
+    21300458: Kirby Super Star Ultra - Sword Knight_229
+    21300460: Kirby Super Star Ultra - Sword Knight_230
+    21300462: Kirby Super Star Ultra - Sword Knight_231
+    21300464: Kirby Super Star Ultra - Sword Knight_232
+    21300466: Kirby Super Star Ultra - Sword Knight_233
+    21300468: Kirby Super Star Ultra - Sword Knight_234
+    21300470: Kirby Super Star Ultra - Sword Knight_235
+    21300472: Kirby Super Star Ultra - Sword Knight_236
+    21300474: Kirby Super Star Ultra - Sword Knight_237
+    21300476: Kirby Super Star Ultra - Sword Knight_238
+    21300478: Kirby Super Star Ultra - Sword Knight_239
+    21300480: Kirby Super Star Ultra - Sword Knight_240
+    21300482: Kirby Super Star Ultra - Sword Knight_241
+    21300484: Kirby Super Star Ultra - Sword Knight_242
+    21300486: Kirby Super Star Ultra - Sword Knight_243
+    21300488: Kirby Super Star Ultra - Sword Knight_244
+    21300490: Kirby Super Star Ultra - Sword Knight_245
+    21300492: Kirby Super Star Ultra - Sword Knight_246
+    21300494: Kirby Super Star Ultra - Sword Knight_247
+    21300496: Kirby Super Star Ultra - Sword Knight_248
+    21300498: Kirby Super Star Ultra - Sword Knight_249
+    21300500: Kirby Super Star Ultra - Sword Knight_250
+    21300502: Kirby Super Star Ultra - Sword Knight_251
+    21300504: Kirby Super Star Ultra - Sword Knight_252
+    21300506: Kirby Super Star Ultra - Sword Knight_253
+    21300508: up2
+    21300510: Kirby Super Star Ultra - Sword Knight_255
+    21300512: Kirby Super Star Ultra - Sword Knight_256
+    21300514: Kirby Super Star Ultra - Sword Knight_257
+    21300516: Kirby Super Star Ultra - Sword Knight_258
+    21300518: Kirby Super Star Ultra - Sword Knight_259
+    21300520: Kirby Super Star Ultra - Sword Knight_260
+    21300522: Kirby Super Star Ultra - Sword Knight_261
+    21300524: Kirby Super Star Ultra - Sword Knight_262
+    21300526: Kirby Super Star Ultra - Sword Knight_263
+    21300528: Kirby Super Star Ultra - Sword Knight_264
+    21300530: Kirby Super Star Ultra - Sword Knight_265
+    21300532: Kirby Super Star Ultra - Sword Knight_266
+    21300534: Kirby Super Star Ultra - Sword Knight_267
+    21300536: Kirby Super Star Ultra - Sword Knight_268
+    21300538: Kirby Super Star Ultra - Sword Knight_269
+    21300540: Kirby Super Star Ultra - Sword Knight_270
+    21300542: Kirby Super Star Ultra - Sword Knight_271
+    21300544: Kirby Super Star Ultra - Sword Knight_272
+    21300546: Kirby Super Star Ultra - Sword Knight_273
+    21300548: Kirby Super Star Ultra - Sword Knight_274
+    21300550: Kirby Super Star Ultra - Sword Knight_275
+    21300552: Kirby Super Star Ultra - Sword Knight_276
+    21300554: Kirby Super Star Ultra - Sword Knight_277
+    21300556: Kirby Super Star Ultra - Sword Knight_278
+    21300558: Kirby Super Star Ultra - Sword Knight_279
+    21300560: up0
+    21300562: up1
+    21300564: Kirby Super Star Ultra - Sword Knight_282
+    21300566: Kirby Super Star Ultra - Sword Knight_283
+    21300568: Kirby Super Star Ultra - Sword Knight_284
+    21300570: Kirby Super Star Ultra - Sword Knight_285
+    21300572: Kirby Super Star Ultra - Sword Knight_286
+    21300574: Kirby Super Star Ultra - Sword Knight_287
+    21300576: Kirby Super Star Ultra - Sword Knight_288
+    21300578: Kirby Super Star Ultra - Sword Knight_289
+    21300580: Kirby Super Star Ultra - Sword Knight_290
+    21300582: Kirby Super Star Ultra - Sword Knight_291
+    21300584: Kirby Super Star Ultra - Sword Knight_292
+    21300586: Kirby Super Star Ultra - Sword Knight_293
+    21300588: Kirby Super Star Ultra - Sword Knight_294
+    21300590: Kirby Super Star Ultra - Sword Knight_295
+    21300592: jump0
+    21300594: Kirby Super Star Ultra - Sword Knight_297
+    21300596: jump2
+    21300598: Kirby Super Star Ultra - Sword Knight_299
+    21300600: jump4
+    21300602: jump5
+    21300604: jump6
+    21300606: jump7
+    21300608: Kirby Super Star Ultra - Sword Knight_304
+    21300610: Kirby Super Star Ultra - Sword Knight_305
+    21300612: Kirby Super Star Ultra - Sword Knight_306
+    21300614: Kirby Super Star Ultra - Sword Knight_307
+    21300616: Kirby Super Star Ultra - Sword Knight_308
+    21300618: Kirby Super Star Ultra - Sword Knight_309
+    21300620: Kirby Super Star Ultra - Sword Knight_310
+    21300622: Kirby Super Star Ultra - Sword Knight_311
+    21300624: Kirby Super Star Ultra - Sword Knight_312
+    21300626: Kirby Super Star Ultra - Sword Knight_313
+    21300628: Kirby Super Star Ultra - Sword Knight_314
+    21300630: Kirby Super Star Ultra - Sword Knight_315
+    21300632: Kirby Super Star Ultra - Sword Knight_316
+    21300634: Kirby Super Star Ultra - Sword Knight_317
+    21300636: Kirby Super Star Ultra - Sword Knight_318
+    21300638: jump1
+    21300640: jump3
+    21300642: Kirby Super Star Ultra - Sword Knight_321
+    21300644: Kirby Super Star Ultra - Sword Knight_322
+    21300646: Kirby Super Star Ultra - Sword Knight_323
+    21300648: Kirby Super Star Ultra - Sword Knight_324
+    21300650: Kirby Super Star Ultra - Sword Knight_325
+    21300652: Kirby Super Star Ultra - Sword Knight_326
+    21300654: Kirby Super Star Ultra - Sword Knight_327
+    21300656: Kirby Super Star Ultra - Sword Knight_328
+    21300658: Kirby Super Star Ultra - Sword Knight_329
+    21300660: Kirby Super Star Ultra - Sword Knight_330
+    21300662: Kirby Super Star Ultra - Sword Knight_331
+    21300664: Kirby Super Star Ultra - Sword Knight_332
+    21300666: Kirby Super Star Ultra - Sword Knight_333
+    21300668: Kirby Super Star Ultra - Sword Knight_334
+    21300670: Kirby Super Star Ultra - Sword Knight_335
+    21300672: Kirby Super Star Ultra - Sword Knight_336
+    21300674: Kirby Super Star Ultra - Sword Knight_337
+    21300676: Kirby Super Star Ultra - Sword Knight_338
+    21300678: Kirby Super Star Ultra - Sword Knight_339
+    21300680: Kirby Super Star Ultra - Sword Knight_340
+    21300682: Kirby Super Star Ultra - Sword Knight_341
+    21300684: Kirby Super Star Ultra - Sword Knight_342
+    21300686: Kirby Super Star Ultra - Sword Knight_343
+    21300688: Kirby Super Star Ultra - Sword Knight_344
+    21300690: Kirby Super Star Ultra - Sword Knight_345
+    21300692: Kirby Super Star Ultra - Sword Knight_346
+    21300694: Kirby Super Star Ultra - Sword Knight_347
+    21300696: Kirby Super Star Ultra - Sword Knight_348
+    21300698: Kirby Super Star Ultra - Sword Knight_349
+    21300700: Kirby Super Star Ultra - Sword Knight_350
+    21300702: Kirby Super Star Ultra - Sword Knight_351
+    21300704: Kirby Super Star Ultra - Sword Knight_352
+    21300706: Kirby Super Star Ultra - Sword Knight_353
+    21300708: Kirby Super Star Ultra - Sword Knight_354
+    21300710: Kirby Super Star Ultra - Sword Knight_355
+    21300712: Kirby Super Star Ultra - Sword Knight_356
+    21300714: Kirby Super Star Ultra - Sword Knight_357
+    21300716: Kirby Super Star Ultra - Sword Knight_358
+    21300718: Kirby Super Star Ultra - Sword Knight_359
+    21300720: Kirby Super Star Ultra - Sword Knight_360
+    21300722: Kirby Super Star Ultra - Sword Knight_361
+    21300724: Kirby Super Star Ultra - Sword Knight_362
+    21300726: Kirby Super Star Ultra - Sword Knight_363
+    21300728: Kirby Super Star Ultra - Sword Knight_364
+    21300730: Kirby Super Star Ultra - Sword Knight_365
+    21300732: Kirby Super Star Ultra - Sword Knight_366
+    21300734: Kirby Super Star Ultra - Sword Knight_367
+    21300736: Kirby Super Star Ultra - Sword Knight_368
+    21300738: Kirby Super Star Ultra - Sword Knight_369
+    21300740: Kirby Super Star Ultra - Sword Knight_370
+    21300742: Kirby Super Star Ultra - Sword Knight_371
+    21300744: Kirby Super Star Ultra - Sword Knight_372
+    21300746: Kirby Super Star Ultra - Sword Knight_373
+    21300748: down0
+    21300750: down1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 773
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 781
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 772
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 773
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 761
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 766
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 754
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 768
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 208
+        height: 813
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die0
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 769
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32880792}
+      border: {x: 0, y: 0, z: 0, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 771
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 771
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.37412873, y: 0.5541402}
+      border: {x: 0, y: 3, z: 11, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 770
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_13
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 770
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_14
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 770
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_15
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 764
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_16
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 770
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 719
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 719
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 719
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 713
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 713
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 716
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 712
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 712
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 712
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 718
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5069521, y: 0.5914362}
+      border: {x: 0, y: 6, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die4
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 729
+        width: 41
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6314191, y: 0.5}
+      border: {x: 10, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_28
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 730
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_29
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 730
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_30
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 730
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_31
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 726
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_32
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 726
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_33
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 723
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_34
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 724
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_35
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 721
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_36
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 720
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jumpaway0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 656
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5067112, y: 0.32507455}
+      border: {x: 0, y: 0, z: 0, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jumpaway1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 655
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 14, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jumpaway2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 658
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 8, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 651
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 650
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_42
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 651
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 651
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_44
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 650
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 651
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_46
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 656
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_47
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 667
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_48
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 666
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_49
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 665
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_50
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 680
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_51
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 679
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_52
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 681
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_53
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 678
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_54
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 676
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_55
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 680
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_56
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 677
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_57
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 677
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_58
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 678
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_59
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 660
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_60
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 635
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_61
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 636
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_62
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 637
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_63
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 636
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_64
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 634
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 610
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 610
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 612
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 612
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 612
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 612
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 612
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 613
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 612
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_74
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 614
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_75
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 613
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_76
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 615
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_77
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 614
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_78
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 593
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_79
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 589
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_80
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 597
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kick0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 572
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5068334, y: 0.52123153}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_82
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 557
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_83
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 596
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_84
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 593
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_85
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 592
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_86
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 593
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_87
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 591
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 589
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_89
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 587
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_90
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 588
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kick1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 571
+        width: 35
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4999998, y: 0.5409019}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_92
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 569
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_93
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 566
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_94
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 565
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_95
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 566
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_96
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 564
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_97
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 562
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_98
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 560
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_99
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 561
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_100
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 547
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 506
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.58299345, y: 0.3019104}
+      border: {x: 8, y: 1, z: 3, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_102
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 545
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_103
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 545
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_104
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 545
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_105
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 546
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_106
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 516
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 506
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.28124112, y: 0.3445979}
+      border: {x: 0, y: 1, z: 20, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 498
+        width: 68
+        height: 40
+      alignment: 9
+      pivot: {x: 0.20233043, y: 0.5312363}
+      border: {x: 0, y: 9, z: 42, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 495
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.33273926, y: 0.6615331}
+      border: {x: 0, y: 12, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 496
+        width: 43
+        height: 33
+      alignment: 9
+      pivot: {x: 0.716283, y: 0.66700697}
+      border: {x: 17, y: 11, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 500
+        width: 48
+        height: 29
+      alignment: 9
+      pivot: {x: 0.72936946, y: 0.62282586}
+      border: {x: 22, y: 7, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 506
+        width: 28
+        height: 24
+      alignment: 9
+      pivot: {x: 0.40315792, y: 0.5121053}
+      border: {x: 0, y: 2, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_115
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 521
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_116
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 521
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_117
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 521
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_118
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 512
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_119
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 510
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_120
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 512
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_121
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 510
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_122
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 510
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_123
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 512
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_124
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 510
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 437
+        width: 29
+        height: 47
+      alignment: 9
+      pivot: {x: 0.47964266, y: 0.3084483}
+      border: {x: 2, y: 3, z: 3, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_129
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 466
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_130
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 467
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_131
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 469
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_132
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 464
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_133
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 462
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_134
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 463
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_135
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 462
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_136
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 460
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_137
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 460
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_138
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 444
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_139
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 444
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 429
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.3356777, y: 0.65590984}
+      border: {x: 0, y: 12, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 433
+        width: 68
+        height: 40
+      alignment: 9
+      pivot: {x: 0.19670554, y: 0.5233719}
+      border: {x: 0, y: 9, z: 42, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 441
+        width: 43
+        height: 37
+      alignment: 9
+      pivot: {x: 0.2709833, y: 0.33720687}
+      border: {x: 0, y: 1, z: 20, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 421
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_145
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 419
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_146
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 422
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_147
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 423
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_148
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 424
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_149
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 427
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_150
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 377
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_151
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 377
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_152
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 377
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_153
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 375
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_154
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 375
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_155
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 379
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_156
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 377
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_157
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 378
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_158
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 377
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_159
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 375
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_160
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 376
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_161
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 368
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_162
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 368
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_163
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 374
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_164
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 369
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_165
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 376
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_166
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 375
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_167
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 374
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_168
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 327
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 322
+        width: 34
+        height: 31
+      alignment: 9
+      pivot: {x: 0.36878204, y: 0.39034936}
+      border: {x: 0, y: 1, z: 9, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 310
+        width: 65
+        height: 40
+      alignment: 9
+      pivot: {x: 0.21891503, y: 0.57435685}
+      border: {x: 3, y: 13, z: 40, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 321
+        width: 80
+        height: 25
+      alignment: 9
+      pivot: {x: 0.1398693, y: 0.52711546}
+      border: {x: 0, y: 2, z: 58, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 323
+        width: 71
+        height: 23
+      alignment: 9
+      pivot: {x: 0.18217833, y: 0.5000013}
+      border: {x: 2, y: 0, z: 47, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dash4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 321
+        width: 57
+        height: 23
+      alignment: 9
+      pivot: {x: 0.24303772, y: 0.5459555}
+      border: {x: 3, y: 2, z: 32, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_174
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 323
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_175
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 335
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_176
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 334
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_177
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 335
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_178
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 336
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_179
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 339
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_180
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 339
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_181
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 333
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_182
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 335
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_183
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 329
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_184
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 329
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_185
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 329
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_186
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 329
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_187
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 330
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_188
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 313
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_189
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 313
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_190
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 313
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_191
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 313
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_192
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 313
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_193
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 313
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_194
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 313
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_195
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 313
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_196
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 311
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_197
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 313
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_198
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 313
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_199
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 313
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_200
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 313
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_201
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 298
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_202
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 313
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_203
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 313
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_204
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 313
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_205
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 313
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_206
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 313
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_207
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 313
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_208
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 309
+        width: 64
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_209
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_210
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 224
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_211
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 300
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_212
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_213
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 300
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_214
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 300
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_215
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 300
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_216
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 298
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_217
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 300
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_218
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 300
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_219
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 300
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_220
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 300
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_221
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 300
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_222
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 300
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_223
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_224
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 300
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_225
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 300
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_226
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 300
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_227
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 300
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_228
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 300
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_229
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 300
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_230
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 300
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_231
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 270
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_232
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 294
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_233
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 287
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_234
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_235
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 287
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_236
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 287
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_237
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_238
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 287
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_239
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 287
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_240
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 287
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_241
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 287
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_242
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_243
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 287
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_244
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 287
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_245
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 287
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_246
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_247
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 287
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_248
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_249
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 285
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_250
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_251
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 287
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_252
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_253
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 287
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 224
+        width: 30
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4488861, y: 0.28523374}
+      border: {x: 0, y: 1, z: 4, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_255
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 225
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_256
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 224
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_257
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 224
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_258
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_259
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 274
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_260
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 274
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_261
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 274
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_262
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 274
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_263
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 274
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_264
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 274
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_265
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 274
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_266
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 274
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_267
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 274
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_268
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 274
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_269
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 274
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_270
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 274
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_271
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 274
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_272
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 274
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_273
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 274
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_274
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 264
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_275
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 257
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_276
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 261
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_277
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 248
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_278
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 252
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_279
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 249
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 224
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5114761, y: 0.34174177}
+      border: {x: 0, y: 2, z: 0, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: up1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.49544373, y: 0.35660553}
+      border: {x: 0, y: 2, z: 0, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_282
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 192
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_283
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 209
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_284
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 171
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_285
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 163
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_286
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 163
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_287
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 184
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_288
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 163
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_289
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 155
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_290
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 161
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_291
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 153
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_292
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 173
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_293
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 173
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_294
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 173
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_295
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 152
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 90
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.70963067, y: 0.4487318}
+      border: {x: 19, y: 8, z: 0, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 89
+        width: 46
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4615492, y: 0.27726796}
+      border: {x: 8, y: 0, z: 11, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 82
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.29910415, y: 0.50427264}
+      border: {x: 0, y: 11, z: 19, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 80
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.30347154, y: 0.68398446}
+      border: {x: 0, y: 20, z: 19, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 85
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 19, z: 8, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 82
+        width: 47
+        height: 45
+      alignment: 9
+      pivot: {x: 0.72161734, y: 0.6921612}
+      border: {x: 20, y: 19, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_304
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 124
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_305
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 124
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_306
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 124
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_307
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 124
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_308
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 124
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_309
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 123
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_310
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 102
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_311
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_312
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_313
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 102
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_314
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_315
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_316
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 102
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_317
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 102
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_318
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 89
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.70526326, y: 0.26583877}
+      border: {x: 19, y: 0, z: 0, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 89
+        width: 47
+        height: 45
+      alignment: 9
+      pivot: {x: 0.29092732, y: 0.29910448}
+      border: {x: 0, y: 0, z: 20, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_324
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_325
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_326
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_327
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_328
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 101
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_334
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 88
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_336
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 86
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_337
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 88
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_338
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 88
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_339
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 86
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_340
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_341
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 86
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_342
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_343
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_344
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 86
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_345
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 86
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_346
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_347
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 84
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_348
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 84
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_349
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_350
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 86
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_351
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 86
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_352
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 86
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_353
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_354
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 86
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_355
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_356
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_357
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 86
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_358
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_359
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 86
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_360
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 86
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_361
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 84
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_362
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 75
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_363
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 75
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_364
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 75
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_365
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 75
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_366
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 75
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_367
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 75
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_368
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_369
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_370
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 35
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_371
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 37
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_372
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 37
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Sword Knight_373
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 37
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: down0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 15
+        width: 26
+        height: 52
+      alignment: 9
+      pivot: {x: 0.49275443, y: 0.73550314}
+      border: {x: 0, y: 26, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: down1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 16
+        width: 26
+        height: 51
+      alignment: 9
+      pivot: {x: 0.48550886, y: 0.7364264}
+      border: {x: 0, y: 25, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: b3ce0f70c11129c469c31fbc6d5d35c0
+labels:
+- Character
+timeCreated: 1534107715
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UFOKirbyTrans 1_0
+    21300002: UFOKirbyTrans 1_1
+    21300004: UFOKirbyTrans 1_2
+    21300006: UFOKirbyTrans 1_3
+    21300008: UFOKirbyTrans 1_4
+    21300010: UFOKirbyTrans 1_5
+    21300012: UFOKirbyTrans 1_6
+    21300014: UFOKirbyTrans 1_7
+    21300016: UFOKirbyTrans 1_8
+    21300018: UFOKirbyTrans 1_9
+    21300020: UFOKirbyTrans 1_10
+    21300022: UFOKirbyTrans 1_11
+    21300024: UFOKirbyTrans 1_12
+    21300026: UFOKirbyTrans 1_13
+    21300028: UFOKirbyTrans 1_14
+    21300030: UFOKirbyTrans 1_15
+    21300032: UFOKirbyTrans 1_16
+    21300034: UFOKirbyTrans 1_17
+    21300036: UFOKirbyTrans 1_18
+    21300038: UFOKirbyTrans 1_19
+    21300040: UFOKirbyTrans 1_20
+    21300042: UFOKirbyTrans 1_21
+    21300044: UFOKirbyTrans 1_22
+    21300046: UFOKirbyTrans 1_23
+    21300048: UFOKirbyTrans 1_24
+    21300050: UFOKirbyTrans 1_25
+    21300052: UFOKirbyTrans 1_26
+    21300054: UFOKirbyTrans 1_27
+    21300056: UFOKirbyTrans 1_28
+    21300058: UFOKirbyTrans 1_29
+    21300060: UFOKirbyTrans 1_30
+    21300062: UFOKirbyTrans 1_31
+    21300064: UFOKirbyTrans 1_32
+    21300066: UFOKirbyTrans 1_33
+    21300068: UFOKirbyTrans 1_34
+    21300070: UFOKirbyTrans 1_35
+    21300072: UFOKirbyTrans 1_36
+    21300074: UFOKirbyTrans 1_37
+    21300076: UFOKirbyTrans 1_38
+    21300078: UFOKirbyTrans 1_39
+    21300080: UFOKirbyTrans 1_40
+    21300082: UFOKirbyTrans 1_41
+    21300084: UFOKirbyTrans 1_42
+    21300086: UFOKirbyTrans 1_43
+    21300088: UFOKirbyTrans 1_44
+    21300090: UFOKirbyTrans 1_45
+    21300092: UFOKirbyTrans 1_46
+    21300094: UFOKirbyTrans 1_47
+    21300096: UFOKirbyTrans 1_48
+    21300098: UFOKirbyTrans 1_49
+    21300100: UFOKirbyTrans 1_50
+    21300102: UFOKirbyTrans 1_51
+    21300104: UFOKirbyTrans 1_52
+    21300106: UFOKirbyTrans 1_53
+    21300108: UFOKirbyTrans 1_54
+    21300110: UFOKirbyTrans 1_55
+    21300112: UFOKirbyTrans 1_56
+    21300114: UFOKirbyTrans 1_57
+    21300116: UFOKirbyTrans 1_58
+    21300118: UFOKirbyTrans 1_59
+    21300120: UFOKirbyTrans 1_60
+    21300122: UFOKirbyTrans 1_61
+    21300124: UFOKirbyTrans 1_62
+    21300126: UFOKirbyTrans 1_63
+    21300128: UFOKirbyTrans 1_64
+    21300130: UFOKirbyTrans 1_65
+    21300132: UFOKirbyTrans 1_66
+    21300134: sword4
+    21300136: UFOKirbyTrans 1_68
+    21300138: sword6
+    21300140: UFOKirbyTrans 1_70
+    21300142: UFOKirbyTrans 1_71
+    21300144: sword0
+    21300146: sword1
+    21300148: sword2
+    21300150: sword3
+    21300152: sword5
+    21300154: sword7
+    21300156: sword8
+    21300158: sword9
+    21300160: sword10
+    21300162: UFOKirbyTrans 1_81
+    21300164: sword11
+    21300166: sword12
+    21300168: sword13
+    21300170: UFOKirbyTrans 1_85
+    21300172: sword14
+    21300174: sword16
+    21300176: sword17
+    21300178: sword18
+    21300180: sword19
+    21300182: sword20
+    21300184: sword21
+    21300186: UFOKirbyTrans 1_93
+    21300188: UFOKirbyTrans 1_94
+    21300190: UFOKirbyTrans 1_95
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 366
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 366
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 366
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 366
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 366
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 366
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 366
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 366
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 332
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 332
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 332
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 332
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 306
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 306
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 306
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 306
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 283
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 283
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 283
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 237
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 237
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 237
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 237
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 211
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 235
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 235
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_34
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 211
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_35
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 211
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_36
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 211
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_37
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 235
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_38
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 235
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 211
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 211
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 211
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 211
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 211
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 211
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 211
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 211
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_48
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 211
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 192
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 43
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_52
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 192
+        width: 49
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 163
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_55
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 163
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 163
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_57
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 163
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_59
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_60
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 117
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_61
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 138
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 117
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_63
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 117
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 117
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFOKirbyTrans 1_66
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 128
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 63
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: 0.3798747, y: 0.2390929}
+      border: {x: 0, y: 0, z: 8, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 60
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: 0.27380648, y: 0.22318603}
+      border: {x: 0, y: 0, z: 20, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 63
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 61
+        width: 38
+        height: 52
+      alignment: 9
+      pivot: {x: 0.31160977, y: 0.17429337}
+      border: {x: 0, y: 0, z: 14, w: 33}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 55
+        width: 54
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22839129, y: 0.20634495}
+      border: {x: 0, y: 0, z: 30, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 54
+        width: 57
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21367498, y: 0.2239655}
+      border: {x: 0, y: 0, z: 33, w: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 51
+        width: 53
+        height: 23
+      alignment: 9
+      pivot: {x: 0.23872174, y: 0.3817354}
+      border: {x: 0, y: 0, z: 29, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 49
+        width: 68
+        height: 28
+      alignment: 9
+      pivot: {x: 0.17271648, y: 0.49116844}
+      border: {x: 0, y: 5, z: 44, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword11
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 50
+        width: 60
+        height: 25
+      alignment: 9
+      pivot: {x: 0.19820862, y: 0.59157777}
+      border: {x: 0, y: 6, z: 36, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword12
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 46
+        width: 68
+        height: 32
+      alignment: 9
+      pivot: {x: 0.17612053, y: 0.6895163}
+      border: {x: 0, y: 13, z: 44, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword13
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 51
+        width: 68
+        height: 37
+      alignment: 9
+      pivot: {x: 0.16943808, y: 0.7306318}
+      border: {x: 0, y: 18, z: 44, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword14
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 45
+        width: 49
+        height: 40
+      alignment: 9
+      pivot: {x: 0.24089704, y: 0.754961}
+      border: {x: 0, y: 21, z: 25, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 54
+        height: 52
+      alignment: 9
+      pivot: {x: 0.22105579, y: 0.80688107}
+      border: {x: 0, y: 33, z: 30, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 39
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 39
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 37
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

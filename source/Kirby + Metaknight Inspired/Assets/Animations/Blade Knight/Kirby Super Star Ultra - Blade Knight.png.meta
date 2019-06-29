@@ -1,0 +1,4623 @@
+fileFormatVersion: 2
+guid: 8283a30d0419d3645a87d943841631f3
+timeCreated: 1532644063
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kirby Super Star Ultra - Blade Knight_0
+    21300002: Kirby Super Star Ultra - Blade Knight_1
+    21300004: Kirby Super Star Ultra - Blade Knight_2
+    21300006: Kirby Super Star Ultra - Blade Knight_3
+    21300008: Kirby Super Star Ultra - Blade Knight_4
+    21300010: Kirby Super Star Ultra - Blade Knight_5
+    21300012: Kirby Super Star Ultra - Blade Knight_6
+    21300014: Kirby Super Star Ultra - Blade Knight_7
+    21300016: Kirby Super Star Ultra - Blade Knight_8
+    21300018: Kirby Super Star Ultra - Blade Knight_9
+    21300020: Kirby Super Star Ultra - Blade Knight_10
+    21300022: Kirby Super Star Ultra - Blade Knight_11
+    21300024: Kirby Super Star Ultra - Blade Knight_12
+    21300026: Kirby Super Star Ultra - Blade Knight_13
+    21300028: Kirby Super Star Ultra - Blade Knight_14
+    21300030: Kirby Super Star Ultra - Blade Knight_15
+    21300032: Kirby Super Star Ultra - Blade Knight_16
+    21300034: Kirby Super Star Ultra - Blade Knight_17
+    21300036: Kirby Super Star Ultra - Blade Knight_18
+    21300038: Kirby Super Star Ultra - Blade Knight_19
+    21300040: Kirby Super Star Ultra - Blade Knight_20
+    21300042: Kirby Super Star Ultra - Blade Knight_21
+    21300044: Kirby Super Star Ultra - Blade Knight_22
+    21300046: Kirby Super Star Ultra - Blade Knight_23
+    21300048: Kirby Super Star Ultra - Blade Knight_24
+    21300050: Kirby Super Star Ultra - Blade Knight_25
+    21300052: Kirby Super Star Ultra - Blade Knight_26
+    21300054: Kirby Super Star Ultra - Blade Knight_27
+    21300056: Kirby Super Star Ultra - Blade Knight_28
+    21300058: Kirby Super Star Ultra - Blade Knight_29
+    21300060: Kirby Super Star Ultra - Blade Knight_30
+    21300062: Kirby Super Star Ultra - Blade Knight_31
+    21300064: Kirby Super Star Ultra - Blade Knight_32
+    21300066: Kirby Super Star Ultra - Blade Knight_33
+    21300068: Kirby Super Star Ultra - Blade Knight_34
+    21300070: Kirby Super Star Ultra - Blade Knight_35
+    21300072: Kirby Super Star Ultra - Blade Knight_36
+    21300074: Kirby Super Star Ultra - Blade Knight_37
+    21300076: Kirby Super Star Ultra - Blade Knight_38
+    21300078: Kirby Super Star Ultra - Blade Knight_39
+    21300080: Kirby Super Star Ultra - Blade Knight_40
+    21300082: Kirby Super Star Ultra - Blade Knight_41
+    21300084: Kirby Super Star Ultra - Blade Knight_42
+    21300086: Kirby Super Star Ultra - Blade Knight_43
+    21300088: Kirby Super Star Ultra - Blade Knight_44
+    21300090: Kirby Super Star Ultra - Blade Knight_45
+    21300092: Kirby Super Star Ultra - Blade Knight_46
+    21300094: Kirby Super Star Ultra - Blade Knight_47
+    21300096: Kirby Super Star Ultra - Blade Knight_48
+    21300098: Kirby Super Star Ultra - Blade Knight_49
+    21300100: Kirby Super Star Ultra - Blade Knight_50
+    21300102: Kirby Super Star Ultra - Blade Knight_51
+    21300104: Kirby Super Star Ultra - Blade Knight_52
+    21300106: Kirby Super Star Ultra - Blade Knight_53
+    21300108: Kirby Super Star Ultra - Blade Knight_54
+    21300110: Kirby Super Star Ultra - Blade Knight_55
+    21300112: Kirby Super Star Ultra - Blade Knight_56
+    21300114: Kirby Super Star Ultra - Blade Knight_57
+    21300116: Kirby Super Star Ultra - Blade Knight_58
+    21300118: Kirby Super Star Ultra - Blade Knight_59
+    21300120: Kirby Super Star Ultra - Blade Knight_60
+    21300122: Kirby Super Star Ultra - Blade Knight_61
+    21300124: Kirby Super Star Ultra - Blade Knight_62
+    21300126: Kirby Super Star Ultra - Blade Knight_63
+    21300128: Kirby Super Star Ultra - Blade Knight_64
+    21300130: Kirby Super Star Ultra - Blade Knight_65
+    21300132: Kirby Super Star Ultra - Blade Knight_66
+    21300134: Kirby Super Star Ultra - Blade Knight_67
+    21300136: Kirby Super Star Ultra - Blade Knight_68
+    21300138: Kirby Super Star Ultra - Blade Knight_69
+    21300140: Kirby Super Star Ultra - Blade Knight_70
+    21300142: Kirby Super Star Ultra - Blade Knight_71
+    21300144: Kirby Super Star Ultra - Blade Knight_72
+    21300146: Kirby Super Star Ultra - Blade Knight_73
+    21300148: Kirby Super Star Ultra - Blade Knight_74
+    21300150: Kirby Super Star Ultra - Blade Knight_75
+    21300152: Kirby Super Star Ultra - Blade Knight_76
+    21300154: Kirby Super Star Ultra - Blade Knight_77
+    21300156: Kirby Super Star Ultra - Blade Knight_78
+    21300158: Kirby Super Star Ultra - Blade Knight_79
+    21300160: Kirby Super Star Ultra - Blade Knight_80
+    21300162: Kirby Super Star Ultra - Blade Knight_81
+    21300164: Kirby Super Star Ultra - Blade Knight_82
+    21300166: Kirby Super Star Ultra - Blade Knight_83
+    21300168: Kirby Super Star Ultra - Blade Knight_84
+    21300170: Kirby Super Star Ultra - Blade Knight_85
+    21300172: Kirby Super Star Ultra - Blade Knight_86
+    21300174: Kirby Super Star Ultra - Blade Knight_87
+    21300176: Kirby Super Star Ultra - Blade Knight_88
+    21300178: Kirby Super Star Ultra - Blade Knight_89
+    21300180: Kirby Super Star Ultra - Blade Knight_90
+    21300182: Kirby Super Star Ultra - Blade Knight_91
+    21300184: Kirby Super Star Ultra - Blade Knight_92
+    21300186: Kirby Super Star Ultra - Blade Knight_93
+    21300188: Kirby Super Star Ultra - Blade Knight_94
+    21300190: Kirby Super Star Ultra - Blade Knight_95
+    21300192: Kirby Super Star Ultra - Blade Knight_96
+    21300194: Kirby Super Star Ultra - Blade Knight_97
+    21300196: Kirby Super Star Ultra - Blade Knight_98
+    21300198: Kirby Super Star Ultra - Blade Knight_99
+    21300200: Kirby Super Star Ultra - Blade Knight_100
+    21300202: Kirby Super Star Ultra - Blade Knight_101
+    21300204: Kirby Super Star Ultra - Blade Knight_102
+    21300206: Kirby Super Star Ultra - Blade Knight_103
+    21300208: Kirby Super Star Ultra - Blade Knight_104
+    21300210: blade knight b0_0
+    21300212: blade knight b1_1
+    21300214: Kirby Super Star Ultra - Blade Knight_107
+    21300216: Kirby Super Star Ultra - Blade Knight_108
+    21300218: Kirby Super Star Ultra - Blade Knight_109
+    21300220: Kirby Super Star Ultra - Blade Knight_110
+    21300222: Kirby Super Star Ultra - Blade Knight_111
+    21300224: Kirby Super Star Ultra - Blade Knight_112
+    21300226: Kirby Super Star Ultra - Blade Knight_113
+    21300228: Kirby Super Star Ultra - Blade Knight_114
+    21300230: Kirby Super Star Ultra - Blade Knight_115
+    21300232: Kirby Super Star Ultra - Blade Knight_116
+    21300234: Kirby Super Star Ultra - Blade Knight_117
+    21300236: Kirby Super Star Ultra - Blade Knight_118
+    21300238: Kirby Super Star Ultra - Blade Knight_119
+    21300240: blade knight b1_0
+    21300242: blade knight b2_0
+    21300244: blade knight b2_1
+    21300246: blade knight b3_0
+    21300248: blade knight b4_0
+    21300250: blade knight b5_0
+    21300252: Kirby Super Star Ultra - Blade Knight_126
+    21300254: Kirby Super Star Ultra - Blade Knight_127
+    21300256: blade knight b3_1
+    21300258: Kirby Super Star Ultra - Blade Knight_129
+    21300260: Kirby Super Star Ultra - Blade Knight_130
+    21300262: Kirby Super Star Ultra - Blade Knight_131
+    21300264: Kirby Super Star Ultra - Blade Knight_132
+    21300266: Kirby Super Star Ultra - Blade Knight_133
+    21300268: Kirby Super Star Ultra - Blade Knight_134
+    21300270: Kirby Super Star Ultra - Blade Knight_135
+    21300272: Kirby Super Star Ultra - Blade Knight_136
+    21300274: Kirby Super Star Ultra - Blade Knight_137
+    21300276: Kirby Super Star Ultra - Blade Knight_138
+    21300278: Kirby Super Star Ultra - Blade Knight_139
+    21300280: Kirby Super Star Ultra - Blade Knight_140
+    21300282: Kirby Super Star Ultra - Blade Knight_141
+    21300284: Kirby Super Star Ultra - Blade Knight_142
+    21300286: Kirby Super Star Ultra - Blade Knight_143
+    21300288: Kirby Super Star Ultra - Blade Knight_144
+    21300290: Kirby Super Star Ultra - Blade Knight_145
+    21300292: Kirby Super Star Ultra - Blade Knight_146
+    21300294: Kirby Super Star Ultra - Blade Knight_147
+    21300296: Kirby Super Star Ultra - Blade Knight_148
+    21300298: Kirby Super Star Ultra - Blade Knight_149
+    21300300: Kirby Super Star Ultra - Blade Knight_150
+    21300302: Kirby Super Star Ultra - Blade Knight_151
+    21300304: Kirby Super Star Ultra - Blade Knight_152
+    21300306: Kirby Super Star Ultra - Blade Knight_153
+    21300308: Kirby Super Star Ultra - Blade Knight_154
+    21300310: Kirby Super Star Ultra - Blade Knight_155
+    21300312: Kirby Super Star Ultra - Blade Knight_156
+    21300314: Kirby Super Star Ultra - Blade Knight_157
+    21300316: Kirby Super Star Ultra - Blade Knight_158
+    21300318: Kirby Super Star Ultra - Blade Knight_159
+    21300320: Kirby Super Star Ultra - Blade Knight_160
+    21300322: Kirby Super Star Ultra - Blade Knight_161
+    21300324: Kirby Super Star Ultra - Blade Knight_162
+    21300326: Kirby Super Star Ultra - Blade Knight_163
+    21300328: Kirby Super Star Ultra - Blade Knight_164
+    21300330: Kirby Super Star Ultra - Blade Knight_165
+    21300332: Kirby Super Star Ultra - Blade Knight_166
+    21300334: Kirby Super Star Ultra - Blade Knight_167
+    21300336: Kirby Super Star Ultra - Blade Knight_168
+    21300338: Kirby Super Star Ultra - Blade Knight_169
+    21300340: Kirby Super Star Ultra - Blade Knight_170
+    21300342: Kirby Super Star Ultra - Blade Knight_171
+    21300344: Kirby Super Star Ultra - Blade Knight_172
+    21300346: Kirby Super Star Ultra - Blade Knight_173
+    21300348: Kirby Super Star Ultra - Blade Knight_174
+    21300350: Kirby Super Star Ultra - Blade Knight_175
+    21300352: Kirby Super Star Ultra - Blade Knight_176
+    21300354: Kirby Super Star Ultra - Blade Knight_177
+    21300356: Kirby Super Star Ultra - Blade Knight_178
+    21300358: Kirby Super Star Ultra - Blade Knight_179
+    21300360: Kirby Super Star Ultra - Blade Knight_180
+    21300362: Kirby Super Star Ultra - Blade Knight_181
+    21300364: Kirby Super Star Ultra - Blade Knight_182
+    21300366: Kirby Super Star Ultra - Blade Knight_183
+    21300368: Kirby Super Star Ultra - Blade Knight_184
+    21300370: Kirby Super Star Ultra - Blade Knight_185
+    21300372: Kirby Super Star Ultra - Blade Knight_186
+    21300374: Kirby Super Star Ultra - Blade Knight_187
+    21300376: Kirby Super Star Ultra - Blade Knight_188
+    21300378: Kirby Super Star Ultra - Blade Knight_189
+    21300380: Kirby Super Star Ultra - Blade Knight_190
+    21300382: Kirby Super Star Ultra - Blade Knight_191
+    21300384: Kirby Super Star Ultra - Blade Knight_192
+    21300386: Kirby Super Star Ultra - Blade Knight_193
+    21300388: Kirby Super Star Ultra - Blade Knight_194
+    21300390: Kirby Super Star Ultra - Blade Knight_195
+    21300392: Kirby Super Star Ultra - Blade Knight_196
+    21300394: Kirby Super Star Ultra - Blade Knight_197
+    21300396: Kirby Super Star Ultra - Blade Knight_198
+    21300398: Kirby Super Star Ultra - Blade Knight_199
+    21300400: Kirby Super Star Ultra - Blade Knight_200
+    21300402: Kirby Super Star Ultra - Blade Knight_201
+    21300404: Kirby Super Star Ultra - Blade Knight_202
+    21300406: Kirby Super Star Ultra - Blade Knight_203
+    21300408: Kirby Super Star Ultra - Blade Knight_204
+    21300410: Kirby Super Star Ultra - Blade Knight_205
+    21300412: Kirby Super Star Ultra - Blade Knight_206
+    21300414: Kirby Super Star Ultra - Blade Knight_207
+    21300416: Kirby Super Star Ultra - Blade Knight_208
+    21300418: Kirby Super Star Ultra - Blade Knight_209
+    21300420: Kirby Super Star Ultra - Blade Knight_210
+    21300422: Kirby Super Star Ultra - Blade Knight_211
+    21300424: Kirby Super Star Ultra - Blade Knight_212
+    21300426: Kirby Super Star Ultra - Blade Knight_213
+    21300428: Kirby Super Star Ultra - Blade Knight_214
+    21300430: Kirby Super Star Ultra - Blade Knight_215
+    21300432: Kirby Super Star Ultra - Blade Knight_216
+    21300434: Kirby Super Star Ultra - Blade Knight_217
+    21300436: Kirby Super Star Ultra - Blade Knight_218
+    21300438: Kirby Super Star Ultra - Blade Knight_219
+    21300440: Kirby Super Star Ultra - Blade Knight_220
+    21300442: Kirby Super Star Ultra - Blade Knight_221
+    21300444: Kirby Super Star Ultra - Blade Knight_222
+    21300446: Kirby Super Star Ultra - Blade Knight_223
+    21300448: Kirby Super Star Ultra - Blade Knight_224
+    21300450: Kirby Super Star Ultra - Blade Knight_225
+    21300452: Kirby Super Star Ultra - Blade Knight_226
+    21300454: Kirby Super Star Ultra - Blade Knight_227
+    21300456: Kirby Super Star Ultra - Blade Knight_228
+    21300458: Kirby Super Star Ultra - Blade Knight_229
+    21300460: Kirby Super Star Ultra - Blade Knight_230
+    21300462: Kirby Super Star Ultra - Blade Knight_231
+    21300464: Kirby Super Star Ultra - Blade Knight_232
+    21300466: Kirby Super Star Ultra - Blade Knight_233
+    21300468: Kirby Super Star Ultra - Blade Knight_234
+    21300470: Kirby Super Star Ultra - Blade Knight_235
+    21300472: Kirby Super Star Ultra - Blade Knight_236
+    21300474: Kirby Super Star Ultra - Blade Knight_237
+    21300476: Kirby Super Star Ultra - Blade Knight_238
+    21300478: Kirby Super Star Ultra - Blade Knight_239
+    21300480: Kirby Super Star Ultra - Blade Knight_240
+    21300482: Kirby Super Star Ultra - Blade Knight_241
+    21300484: Kirby Super Star Ultra - Blade Knight_242
+    21300486: Kirby Super Star Ultra - Blade Knight_243
+    21300488: Kirby Super Star Ultra - Blade Knight_244
+    21300490: Kirby Super Star Ultra - Blade Knight_245
+    21300492: Kirby Super Star Ultra - Blade Knight_246
+    21300494: Kirby Super Star Ultra - Blade Knight_247
+    21300496: Kirby Super Star Ultra - Blade Knight_248
+    21300498: Kirby Super Star Ultra - Blade Knight_249
+    21300500: Kirby Super Star Ultra - Blade Knight_250
+    21300502: Kirby Super Star Ultra - Blade Knight_251
+    21300504: Kirby Super Star Ultra - Blade Knight_252
+    21300506: Kirby Super Star Ultra - Blade Knight_253
+    21300508: Kirby Super Star Ultra - Blade Knight_254
+    21300510: Kirby Super Star Ultra - Blade Knight_255
+    21300512: Kirby Super Star Ultra - Blade Knight_256
+    21300514: Kirby Super Star Ultra - Blade Knight_257
+    21300516: Kirby Super Star Ultra - Blade Knight_258
+    21300518: Kirby Super Star Ultra - Blade Knight_259
+    21300520: Kirby Super Star Ultra - Blade Knight_260
+    21300522: Kirby Super Star Ultra - Blade Knight_261
+    21300524: Kirby Super Star Ultra - Blade Knight_262
+    21300526: Kirby Super Star Ultra - Blade Knight_263
+    21300528: Kirby Super Star Ultra - Blade Knight_264
+    21300530: Kirby Super Star Ultra - Blade Knight_265
+    21300532: Kirby Super Star Ultra - Blade Knight_266
+    21300534: Kirby Super Star Ultra - Blade Knight_267
+    21300536: Kirby Super Star Ultra - Blade Knight_268
+    21300538: Kirby Super Star Ultra - Blade Knight_269
+    21300540: Kirby Super Star Ultra - Blade Knight_270
+    21300542: Kirby Super Star Ultra - Blade Knight_271
+    21300544: Kirby Super Star Ultra - Blade Knight_272
+    21300546: Kirby Super Star Ultra - Blade Knight_273
+    21300548: Kirby Super Star Ultra - Blade Knight_274
+    21300550: Kirby Super Star Ultra - Blade Knight_275
+    21300552: Kirby Super Star Ultra - Blade Knight_276
+    21300554: Kirby Super Star Ultra - Blade Knight_277
+    21300556: Kirby Super Star Ultra - Blade Knight_278
+    21300558: Kirby Super Star Ultra - Blade Knight_279
+    21300560: Kirby Super Star Ultra - Blade Knight_280
+    21300562: Kirby Super Star Ultra - Blade Knight_281
+    21300564: Kirby Super Star Ultra - Blade Knight_282
+    21300566: Kirby Super Star Ultra - Blade Knight_283
+    21300568: Kirby Super Star Ultra - Blade Knight_284
+    21300570: Kirby Super Star Ultra - Blade Knight_285
+    21300572: Kirby Super Star Ultra - Blade Knight_286
+    21300574: Kirby Super Star Ultra - Blade Knight_287
+    21300576: Kirby Super Star Ultra - Blade Knight_288
+    21300578: Kirby Super Star Ultra - Blade Knight_289
+    21300580: Kirby Super Star Ultra - Blade Knight_290
+    21300582: Kirby Super Star Ultra - Blade Knight_291
+    21300584: Kirby Super Star Ultra - Blade Knight_292
+    21300586: Kirby Super Star Ultra - Blade Knight_293
+    21300588: Kirby Super Star Ultra - Blade Knight_294
+    21300590: Kirby Super Star Ultra - Blade Knight_295
+    21300592: Kirby Super Star Ultra - Blade Knight_296
+    21300594: Kirby Super Star Ultra - Blade Knight_297
+    21300596: Kirby Super Star Ultra - Blade Knight_298
+    21300598: Kirby Super Star Ultra - Blade Knight_299
+    21300600: Kirby Super Star Ultra - Blade Knight_300
+    21300602: Kirby Super Star Ultra - Blade Knight_301
+    21300604: Kirby Super Star Ultra - Blade Knight_302
+    21300606: Kirby Super Star Ultra - Blade Knight_303
+    21300608: Kirby Super Star Ultra - Blade Knight_304
+    21300610: blade knight b0_1
+    21300612: blade knight b4_1
+    21300614: blade knight b5_1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 805
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 805
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 812
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 807
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 809
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 807
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 808
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 803
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 808
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 33
+        height: 862
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 830
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 830
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_12
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 830
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 830
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 830
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_15
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 830
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_16
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 830
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_17
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 830
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_18
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 830
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 830
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_20
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 830
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_21
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 830
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_22
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 830
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_23
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 818
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_24
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 821
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 815
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_26
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 819
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_27
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 814
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_28
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 816
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 813
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 758
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_31
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 758
+        width: 45
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 758
+        width: 48
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 757
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 757
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 757
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 757
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 758
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 758
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_39
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 770
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_40
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 770
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_41
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 770
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_42
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 767
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_43
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 766
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_44
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 765
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_45
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 765
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_46
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 765
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_47
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 765
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 704
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 708
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 706
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_51
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 700
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 698
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_53
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 700
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_54
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 700
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_55
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 698
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_56
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 700
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_57
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 702
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_58
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 700
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_59
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 721
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_60
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 718
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_61
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 716
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_62
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 712
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_63
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 721
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_64
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 717
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_65
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 716
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_66
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 718
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 652
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_68
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 652
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 652
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_70
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 652
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_71
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 652
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_72
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 652
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_73
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 652
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_74
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 652
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_75
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 652
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 652
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_77
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 652
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_78
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 421
+        width: 181
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_79
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 671
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_80
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 670
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_81
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 672
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_82
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 672
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_83
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 671
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_84
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 606
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_85
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 606
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_86
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 605
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_87
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 621
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_88
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 617
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_89
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 623
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 631
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_91
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 626
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_92
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 627
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_93
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 627
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_94
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 627
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_95
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 628
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_96
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 626
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_97
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 626
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_98
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 601
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_99
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 604
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_100
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 610
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_101
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 605
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_102
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 606
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_103
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 607
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_104
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 605
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blade knight b0_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 548
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.53953755, y: 0.27741173}
+      border: {x: 2, y: 0, z: 0, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_107
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 569
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_108
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 569
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_109
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 569
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_110
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 567
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_111
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 569
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_112
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 576
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_113
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 575
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_114
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 575
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_115
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 577
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_116
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 578
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_117
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 580
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_118
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 577
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_119
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 554
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blade knight b1_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 548
+        width: 38
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3281768, y: 0.349484}
+      border: {x: 0, y: 0, z: 12, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blade knight b2_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 540
+        width: 72
+        height: 40
+      alignment: 9
+      pivot: {x: 0.2180216, y: 0.52030337}
+      border: {x: 0, y: 8, z: 41, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blade knight b3_0
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 537
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.3787873, y: 0.6023575}
+      border: {x: 0, y: 9, z: 12, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blade knight b4_0
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 539
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6879173, y: 0.6262563}
+      border: {x: 15, y: 10, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: blade knight b5_0
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 543
+        width: 48
+        height: 31
+      alignment: 9
+      pivot: {x: 0.70341367, y: 0.5923167}
+      border: {x: 20, y: 7, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_126
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 531
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_127
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 530
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_129
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 526
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_130
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 526
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_131
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 527
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_132
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 526
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_134
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 496
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_135
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 489
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_136
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 490
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_137
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 482
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_138
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 483
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_139
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 504
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_140
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 478
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_141
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 478
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_142
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 480
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 475
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_144
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 478
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_145
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 477
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_146
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 477
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_147
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 432
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_148
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 432
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_149
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 432
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_150
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 426
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_151
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 432
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_152
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 420
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_153
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 422
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_154
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 422
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_155
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 419
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_156
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 423
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_157
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 419
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_158
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 427
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_159
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 391
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_160
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 391
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_161
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 391
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_162
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 391
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_163
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_164
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 389
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_165
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 371
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_166
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 382
+        width: 75
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_167
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 383
+        width: 89
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_168
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 381
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_169
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 381
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_170
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 368
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_171
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 372
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_172
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 369
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_173
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 369
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_174
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_175
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 330
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_176
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 330
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_177
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 330
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_178
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 316
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_179
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 316
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_180
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 337
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_181
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 316
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_182
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 308
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_183
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 314
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_184
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 303
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_185
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 303
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_186
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 325
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_187
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 317
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_188
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 317
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_189
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 323
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_190
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 318
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_191
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 325
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_192
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 324
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_193
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 323
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_194
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 305
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_195
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 283
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_196
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 282
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_197
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 284
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_198
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 284
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_199
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 284
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_200
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 285
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_201
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 288
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_202
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 288
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_203
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 259
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_204
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 259
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_205
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 259
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_206
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 259
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_207
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 260
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_208
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 257
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_209
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 259
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_210
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 259
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_211
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 259
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_212
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 240
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_213
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_214
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 239
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_215
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 239
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_216
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 239
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_217
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_218
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 232
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_219
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 250
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_220
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_221
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 235
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_222
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_223
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 251
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_224
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 258
+        width: 64
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_225
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 241
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_226
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_227
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 243
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_228
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 149
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_229
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 178
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_230
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 180
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_231
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 213
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_232
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 206
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_233
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 210
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_234
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 174
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_235
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 178
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_236
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 175
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_237
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 177
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_238
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 177
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_239
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 177
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_240
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 150
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_241
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 179
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_242
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 122
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_243
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 127
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_244
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 127
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_245
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 128
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_246
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 128
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_247
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 128
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_248
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 91
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_249
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 93
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_250
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 88
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_251
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 86
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_252
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 91
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_253
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 86
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_254
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_255
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_256
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_257
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_258
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_259
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 86
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_260
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 86
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_261
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 94
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_262
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 94
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_263
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 94
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_264
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 94
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_265
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 94
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_266
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 94
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_267
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 94
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_268
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 84
+        width: 4
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_269
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 92
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_270
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 94
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_271
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 94
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_272
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 94
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_273
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 94
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_274
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 94
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_275
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 95
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_276
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 95
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_277
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 93
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_278
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 93
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_279
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 95
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_280
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 95
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_281
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 94
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_282
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 94
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_283
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 94
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_284
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 94
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_285
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 94
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_286
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 94
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_287
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 84
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_288
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 80
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_289
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 80
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_290
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 80
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_291
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 80
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_292
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 78
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_293
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 80
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_294
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 75
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_295
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 75
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_296
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 75
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_297
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 75
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_298
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 29
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_299
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 33
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_300
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 28
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_301
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 24
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_302
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 39
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_303
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 25
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Kirby Super Star Ultra - Blade Knight_304
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

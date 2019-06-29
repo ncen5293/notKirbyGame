@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 7503fc30f69edb44d96a2a739069c1cf
+timeCreated: 1531962758
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UFO Kirby boost and maybehurt_0
+    21300002: UFO Kirby boost and maybehurt_1
+    21300004: UFO Kirby boost and maybehurt_2
+    21300006: UFO Kirby boost and maybehurt_3
+    21300008: UFO Kirby boost and maybehurt_4
+    21300010: UFO Kirby boost and maybehurt_5
+    21300012: UFO Kirby boost and maybehurt_6
+    21300014: UFO Kirby boost and maybehurt_7
+    21300016: UFO Kirby boost and maybehurt_8
+    21300018: UFO Kirby boost and maybehurt_9
+    21300020: UFO Kirby boost and maybehurt_10
+    21300022: UFO Kirby boost and maybehurt_11
+    21300024: UFO Kirby boost and maybehurt_12
+    21300026: UFO Kirby boost and maybehurt_13
+    21300028: UFO Kirby boost and maybehurt_14
+    21300030: UFO Kirby boost and maybehurt_15
+    21300032: UFO Kirby boost and maybehurt_16
+    21300034: UFO Kirby boost and maybehurt_17
+    21300036: UFO Kirby boost and maybehurt_18
+    21300038: UFO Kirby boost and maybehurt_19
+    21300040: UFO Kirby boost and maybehurt_20
+    21300042: UFO Kirby boost and maybehurt_21
+    21300044: UFO Kirby boost and maybehurt_22
+    21300046: UFO Kirby boost and maybehurt_23
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_0
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 517
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 483
+        width: 24
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.825}
+      border: {x: 0, y: 34, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 484
+        width: 24
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.825}
+      border: {x: 0, y: 33, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 485
+        width: 24
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.825}
+      border: {x: 0, y: 33, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 489
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 30, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_20
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_21
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UFO Kirby boost and maybehurt_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 24
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

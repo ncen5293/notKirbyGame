@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: 28411a807c89d6c408c2b205113a91f4
+timeCreated: 1535140384
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pitchfork_0
+    21300002: pitchfork_1
+    21300004: pitchfork_2
+    21300006: pitchfork_3
+    21300008: pitchfork_4
+    21300010: pitchfork_5
+    21300012: pitchfork_6
+    21300014: pitchfork_7
+    21300016: pitchfork_8
+    21300018: pitchfork_9
+    21300020: pitchfork_10
+    21300022: pitchfork_11
+    21300024: pitchfork_12
+    21300026: pitchfork_13
+    21300028: pitchfork_14
+    21300030: pitchfork_15
+    21300032: die1
+    21300034: die2
+    21300036: die3
+    21300038: die4
+    21300040: die5
+    21300042: pitchfork_21
+    21300044: die6
+    21300046: pitchfork_23
+    21300048: pitchfork_24
+    21300050: pitchfork_25
+    21300052: pitchfork_26
+    21300054: pitchfork_27
+    21300056: pitchfork_28
+    21300058: pitchfork_30
+    21300060: pitchfork_31
+    21300062: pitchfork_32
+    21300064: pitchfork_33
+    21300066: pitchfork_34
+    21300068: pitchfork_35
+    21300070: get0
+    21300072: get1
+    21300074: get2
+    21300076: get3
+    21300078: get4
+    21300080: get5
+    21300082: get6
+    21300084: get7
+    21300086: die0
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pitchfork_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 234
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 234
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 234
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 2}
+        - {x: -8, y: -2}
+        - {x: 8, y: -2}
+        - {x: 8, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 234
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 2}
+        - {x: -12, y: -2}
+        - {x: 12, y: -2}
+        - {x: 12, y: 2}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 233
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 3.5}
+        - {x: -12, y: -3.5}
+        - {x: 10, y: -3.5}
+        - {x: 12, y: -0.5}
+        - {x: 12, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 231
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 6}
+        - {x: -9, y: 3}
+        - {x: -9, y: -5}
+        - {x: -8, y: -6}
+        - {x: 9, y: -6}
+        - {x: 9, y: 4}
+        - {x: 8, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 230
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 7}
+        - {x: -12, y: -7}
+        - {x: 9, y: -7}
+        - {x: 12, y: -2}
+        - {x: 12, y: 6}
+        - {x: 11, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 233
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 4}
+        - {x: -12, y: 3}
+        - {x: -12, y: -4}
+        - {x: 10, y: -4}
+        - {x: 12, y: -3}
+        - {x: 12, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 230
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.5, y: 7.5}
+        - {x: -7.5, y: -3.5}
+        - {x: -7.5, y: -7.5}
+        - {x: -3.5, y: -7.5}
+        - {x: 7.5, y: 3.5}
+        - {x: 7.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 199
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11.5, y: 13}
+        - {x: 0.5, y: 13}
+        - {x: -13.5, y: -7}
+        - {x: -13.5, y: -13}
+        - {x: -7.5, y: -13}
+        - {x: 11.5, y: 2}
+        - {x: 13.5, y: 4}
+        - {x: 13.5, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 201
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -11}
+        - {x: 6, y: -11}
+        - {x: 11, y: 0}
+        - {x: 11, y: 10}
+        - {x: 9, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 201
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 11}
+        - {x: -11, y: -2}
+        - {x: -11, y: -11}
+        - {x: 6, y: -11}
+        - {x: 11, y: 0}
+        - {x: 11, y: 10}
+        - {x: 9, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 202
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 10.5}
+        - {x: -10, y: -2.5}
+        - {x: -10, y: -10.5}
+        - {x: -3, y: -10.5}
+        - {x: 10, y: -0.5}
+        - {x: 10, y: 10.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 203
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -0.5, y: 9.5}
+        - {x: -15.5, y: -4.5}
+        - {x: -15.5, y: -9.5}
+        - {x: -3.5, y: -9.5}
+        - {x: 15.5, y: -5.5}
+        - {x: 15.5, y: 9.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 204
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.5, y: 8}
+        - {x: -12.5, y: -3}
+        - {x: -12.5, y: -8}
+        - {x: 0.5, y: -8}
+        - {x: 12.5, y: -4}
+        - {x: 12.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 208
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15.20755, y: 0.9094238}
+        - {x: -15.286789, y: -3.049057}
+        - {x: -0.45281982, y: -2.7320862}
+        - {x: 1.2648773, y: -3.4794464}
+        - {x: 4.3019714, y: -3.8621216}
+        - {x: 4.350952, y: 2.6264038}
+        - {x: -0.72073364, y: 0.90945435}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -8, y: 6}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
+        - {x: 7, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -7}
+        - {x: -7, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+        - {x: -4, y: 8}
+        - {x: -8, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 178
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 189
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.5, y: 2.5}
+        - {x: -2.5, y: -2.5}
+        - {x: 2.5, y: -2.5}
+        - {x: 2.5, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 0}
+        - {x: 12, y: 12}
+        - {x: -12, y: 12}
+        - {x: -12, y: -7}
+        - {x: -10, y: -12}
+        - {x: 8, y: -12}
+        - {x: 12, y: -9}
+        - {x: 12, y: 0}
+        - {x: 9, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 188
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 4}
+        - {x: -8, y: 2}
+        - {x: -8, y: -4}
+        - {x: 8, y: -4}
+        - {x: 8, y: 3}
+        - {x: 6, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 189
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 189
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 190
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 4}
+        - {x: -4, y: 2}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 189
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 5}
+        - {x: -4, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: 1}
+        - {x: 2, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 189
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.5, y: 2.5}
+        - {x: -3.5, y: -2.5}
+        - {x: 3.5, y: -2.5}
+        - {x: 3.5, y: 2.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 176
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 3.5}
+        - {x: -8, y: 0.5}
+        - {x: -8, y: -3.5}
+        - {x: 8, y: -3.5}
+        - {x: 8, y: -0.5}
+        - {x: 4, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_31
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 176
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -4, y: 3}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -2}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 176
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -4, y: 3}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 176
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 176
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.5, y: 4}
+        - {x: -3.5, y: -4}
+        - {x: 3.5, y: -4}
+        - {x: 3.5, y: 3}
+        - {x: 2.5, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pitchfork_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 176
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.5, y: 4}
+        - {x: -4.5, y: -2}
+        - {x: -2.5, y: -4}
+        - {x: 4.5, y: -4}
+        - {x: 4.5, y: 2}
+        - {x: 2.5, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: get0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 43
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 13}
+        - {x: -13, y: -4}
+        - {x: -13, y: -13}
+        - {x: -4, y: -13}
+        - {x: 8, y: -8}
+        - {x: 13, y: 2}
+        - {x: 13, y: 11}
+        - {x: 11, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: get1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 40
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 16}
+        - {x: -4, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: 15}
+        - {x: 3, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: get2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 44
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: 1}
+        - {x: 4, y: -13}
+        - {x: 13, y: -13}
+        - {x: 13, y: -4}
+        - {x: 8, y: 8}
+        - {x: -2, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: get3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 50
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: 4}
+        - {x: -16, y: 1}
+        - {x: -16, y: -4}
+        - {x: 16, y: -4}
+        - {x: 16, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: get4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 41
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: -3}
+        - {x: -13, y: -11}
+        - {x: -11, y: -13}
+        - {x: 1, y: -13}
+        - {x: 13, y: 4}
+        - {x: 13, y: 13}
+        - {x: 4, y: 13}
+        - {x: -8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: get5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 37
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 16}
+        - {x: -4, y: -15}
+        - {x: -3, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: get6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 42
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: 13}
+        - {x: -13, y: 5}
+        - {x: -8, y: -8}
+        - {x: 2, y: -13}
+        - {x: 12, y: -13}
+        - {x: 13, y: -11}
+        - {x: 13, y: -1}
+        - {x: -7, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: get7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 50
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 4}
+        - {x: -16, y: -4}
+        - {x: 15, y: -4}
+        - {x: 16, y: -3}
+        - {x: 16, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: die0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 179
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
